@@ -3,6 +3,6 @@ region = "us-east-1"
 }
 
 resource "aws_instance" "one" {
-ami = "ami-03eb6185d756497f8"
-instance_type = "t2.micro"
+ami = "ami-091138d0f0d41ff90"
+instance_type = "t3.micro"
 }
